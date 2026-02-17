@@ -65,7 +65,7 @@
   <h2>Rollover 1.30+ Odds</h2>
   <div class="match"><span>Benfica  vs Real Madrid</span><span class="tip">Over 1.5</span></div>
   <div class="match"><span>Monaco vs P.S.G</span><span class="tip">Over 1.5</span></div>
-  <div class="match"><span>PSG vs Nantes</span><span class="tip">Win</span></div>
+  
   
 
 <!-- 1.50+ Section -->
@@ -95,4 +95,4 @@
       document.getElementById('startScreen').style.display = 'none';
       document.getElementById('mainContent').style.display = 'block';
     }
-  </script></body>
+  </script>
